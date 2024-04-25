@@ -1,0 +1,14 @@
+C:\Users\VICTUS\Desktop\HÜSEYİN\KodlamaioOperations\KodlamaioModel\KodlamaioModel\bin\Debug\net8.0\KodlamaioModel.exe
+C:\Users\VICTUS\Desktop\HÜSEYİN\KodlamaioOperations\KodlamaioModel\KodlamaioModel\bin\Debug\net8.0\KodlamaioModel.deps.json
+C:\Users\VICTUS\Desktop\HÜSEYİN\KodlamaioOperations\KodlamaioModel\KodlamaioModel\bin\Debug\net8.0\KodlamaioModel.runtimeconfig.json
+C:\Users\VICTUS\Desktop\HÜSEYİN\KodlamaioOperations\KodlamaioModel\KodlamaioModel\bin\Debug\net8.0\KodlamaioModel.dll
+C:\Users\VICTUS\Desktop\HÜSEYİN\KodlamaioOperations\KodlamaioModel\KodlamaioModel\bin\Debug\net8.0\KodlamaioModel.pdb
+C:\Users\VICTUS\Desktop\HÜSEYİN\KodlamaioOperations\KodlamaioModel\KodlamaioModel\obj\Debug\net8.0\KodlamaioModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VICTUS\Desktop\HÜSEYİN\KodlamaioOperations\KodlamaioModel\KodlamaioModel\obj\Debug\net8.0\KodlamaioModel.AssemblyInfoInputs.cache
+C:\Users\VICTUS\Desktop\HÜSEYİN\KodlamaioOperations\KodlamaioModel\KodlamaioModel\obj\Debug\net8.0\KodlamaioModel.AssemblyInfo.cs
+C:\Users\VICTUS\Desktop\HÜSEYİN\KodlamaioOperations\KodlamaioModel\KodlamaioModel\obj\Debug\net8.0\KodlamaioModel.csproj.CoreCompileInputs.cache
+C:\Users\VICTUS\Desktop\HÜSEYİN\KodlamaioOperations\KodlamaioModel\KodlamaioModel\obj\Debug\net8.0\KodlamaioModel.dll
+C:\Users\VICTUS\Desktop\HÜSEYİN\KodlamaioOperations\KodlamaioModel\KodlamaioModel\obj\Debug\net8.0\refint\KodlamaioModel.dll
+C:\Users\VICTUS\Desktop\HÜSEYİN\KodlamaioOperations\KodlamaioModel\KodlamaioModel\obj\Debug\net8.0\KodlamaioModel.pdb
+C:\Users\VICTUS\Desktop\HÜSEYİN\KodlamaioOperations\KodlamaioModel\KodlamaioModel\obj\Debug\net8.0\KodlamaioModel.genruntimeconfig.cache
+C:\Users\VICTUS\Desktop\HÜSEYİN\KodlamaioOperations\KodlamaioModel\KodlamaioModel\obj\Debug\net8.0\ref\KodlamaioModel.dll
